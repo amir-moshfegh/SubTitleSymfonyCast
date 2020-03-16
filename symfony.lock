@@ -54,6 +54,9 @@
     "symfony/dependency-injection": {
         "version": "v4.4.5"
     },
+    "symfony/dom-crawler": {
+        "version": "v4.4.5"
+    },
     "symfony/dotenv": {
         "version": "v4.4.5"
     },
