@@ -1,0 +1,10 @@
+{% extends "base.html.twig" %}
+{% block title %} document {% endblock %}
+
+{% block body %}
+
+    {% for post in posts %}
+        {{ post }}<br>
+    {% endfor %}
+
+{% endblock %}
